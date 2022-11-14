@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 /*******************MAKING CONNECTION***************************/
-mongoose.connect("mongodb+srv://csv123:<password>@cluster0.luvqcfx.mongodb.net/?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://csv123:iJ20ififbObw0tq5@cluster0.luvqcfx.mongodb.net/?retryWrites=true&w=majority");
 //setting it to db
 const db = mongoose.connection;
 
